@@ -7,6 +7,7 @@
 //
 
 // http://www.regular-expressions.info
+// https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSRegularExpression_Class/
 
 /*  NSRegularExpressionOptions {
         NSRegularExpressionCaseInsensitive,                 //忽略大小写
@@ -18,6 +19,8 @@
         NSRegularExpressionUseUnicodeWordBoundaries         //Unicode TR#29 作为分词符
  }
  */
+
+//正则表达式：通用模式语言，用于处理文本
 
 /*
  表达式和语法：
